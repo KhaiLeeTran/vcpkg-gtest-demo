@@ -1,0 +1,14 @@
+
+*.o
+*.exe
+
+
+build/
+
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+
+config.ini
