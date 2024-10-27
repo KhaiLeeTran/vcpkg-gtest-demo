@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_test.dir/src/my_code.cpp.o CMakeFiles/my_test.dir/tests/test_main.cpp.o -o my_test  /home/quangkhai/vcpkg/installed/x64-linux/debug/lib/libgtest.a /home/quangkhai/vcpkg/installed/x64-linux/debug/lib/manual-link/libgtest_main.a /home/quangkhai/vcpkg/installed/x64-linux/debug/lib/libgtest.a
