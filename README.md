@@ -19,9 +19,7 @@ This document provides a detailed guide on how to use **vcpkg** to manage C++ li
    ```bash
          nano ~/.bashrc
    after add:
-    ```bash
-     export PATH=$PATH:/path/to/vcpkg
-     source ~/.bashrc
+         export PATH=$PATH:/path/to/vcpkg
+         source ~/.bashrc
    If you encounter errors related to CMake, you can use Snap to install the latest version:
-    ```bash
-     sudo snap install cmake --classic
+        sudo snap install cmake --classic
