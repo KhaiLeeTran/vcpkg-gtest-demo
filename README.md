@@ -13,13 +13,12 @@ This document provides a detailed guide on how to use **vcpkg** to manage C++ li
    ```bash
    git clone https://github.com/microsoft/vcpkg.git
 2. **Run the bootstrap script to build Vcpkg:**
+   ```bash
    cd vcpkg
    ./bootstrap-vcpkg.sh
-3. **Add Vcpkg to your PATH:**
+4. **Add Vcpkg to your PATH:**
    ```bash
          nano ~/.bashrc
-   after add:
          export PATH=$PATH:/path/to/vcpkg
          source ~/.bashrc
-   If you encounter errors related to CMake, you can use Snap to install the latest version:
         sudo snap install cmake --classic
